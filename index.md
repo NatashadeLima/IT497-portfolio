@@ -1,23 +1,42 @@
-# Natasha de Lima
+# Hi, I'm Natasha! 👋
 
-## Spiritual Progression & Professional Growth Portfolio
+Welcome to my **Spiritual Progression and Professional Growth Portfolio**.
 
-Welcome to my portfolio for Ensign College.
-
-This website documents both my spiritual journey and my professional growth as I pursue a Bachelor's Degree in Information Technology.
-
-Throughout this portfolio, I will share my guiding principles, technical projects, ethical reflections, and personal experiences that have helped shape who I am today.
+I am pursuing a Bachelor's Degree in Information Technology at Ensign College. This portfolio highlights both my professional development and my spiritual journey. As I continue learning, I hope to use my technical knowledge to serve others, solve problems, and make ethical decisions that reflect my values.
 
 ---
 
-## Portfolio Sections
+## Explore My Portfolio
 
-- [Spiritual Portfolio](spiritual.md)
+### 🌱 Spiritual Portfolio
+Learn about the guiding principles that shape my life and career.
 
-- [Professional Portfolio](professional.md)
+➡️ [Open Spiritual Portfolio](spiritual.md)
 
-- [Projects](projects.md)
+---
 
-- [Resume](resume.md)
+### 💼 Professional Portfolio
+Read about my career goals, skills, and experiences.
 
-- [Reflection](reflection.md)
+➡️ [Open Professional Portfolio](professional.md)
+
+---
+
+### 💻 Technical Projects
+View projects that helped me develop my IT knowledge.
+
+➡️ [Open Projects](projects.md)
+
+---
+
+### 📄 Resume
+See my education, skills, and experience.
+
+➡️ [Open Resume](resume.md)
+
+---
+
+### 🌟 Reflection
+Read my reflections on spiritual and professional growth.
+
+➡️ [Open Reflection](reflection.md)
