@@ -29,4 +29,4 @@ One of my goals is to continue growing as an IT professional while maintaining t
 ## Certifications
 
 - TestOut PC Pro
-- ...
+- Intensive Computer Course, City Computer
