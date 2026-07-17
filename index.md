@@ -1,3 +1,5 @@
+<img src="profile.jpg" alt="Natasha de Lima" width="180" style="border-radius:50%;">
+
 # Hi, I'm Natasha! 👋
 
 Welcome to my **Spiritual Progression and Professional Growth Portfolio**.
