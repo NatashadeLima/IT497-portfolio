@@ -79,7 +79,7 @@ As I pursue my education in Information Technology and prepare for my future car
 
 > "For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward."
 
-This scripture reminds me that God expects me to use my agency with purpose and to take initiative in doing good rather than waiting to be told what to do. It has become especially meaningful to me this week as I reflected on my temple recommend interviews and my opportunity to serve as the leader for the schedule and activities of the CJAS conference in Brazil.
+This scripture reminds me that God expects me to use my agency with purpose and to take initiative in doing good rather than waiting to be told what to do. It has become especially meaningful to me this week as I reflected on my temple recommend interviews and my opportunity to serve as the leader for the schedule and activities of the YSA conference in Brazil.
 
 Through these experiences, I have come to better understand what it means to be "anxiously engaged in a good cause." Serving others requires willingness, preparation, and faith, and I have seen how the Lord blesses our efforts when we choose to act with a willing heart. This scripture also inspires me as I pursue a career in Information Technology. I want to be someone who takes initiative, solves problems, acts ethically, and uses my knowledge and skills to make a positive difference in the lives of others.
 
