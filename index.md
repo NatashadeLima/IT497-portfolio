@@ -24,9 +24,9 @@ Learn about the guiding principles that shape my life and career.
 
 ### 🤝 Professional and Spiritual Alignment
 
-Discover how my faith, values, and professional competencies work together to shape the IT professional I aspire to become. This reflection explores how principles such as faith, integrity, and service influence my approach to technology, ethical decision-making, and serving others.
+Explore how my faith and spiritual principles influence my professional development in Information Technology. This section reflects on how values such as faith, integrity, and service guide my approach to ethical decision-making, continuous learning, and serving others through technology.
 
-➡️ [Open Professional and Spiritual Alignment](alignment.md)
+➡️ [Open Professional and Spiritual Alignment](Professional%20and%20Spiritual%20Alignment.md)
 
 ---
 
