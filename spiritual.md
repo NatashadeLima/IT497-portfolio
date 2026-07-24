@@ -60,10 +60,10 @@ Kindness, patience, and respect should always influence the way I work with othe
 
 ---
 
-Favorite Scripture
+### Favorite Scripture
 2 Nephi 9:18
 
-"But, behold, the righteous, the saints of the Holy One of Israel, they who have believed in the Holy One of Israel, they who have endured the crosses of the world, and despised the shame of it, they shall inherit the kingdom of God, which was prepared for them from the foundation of the world, and their joy shall be full forever."
+> "But, behold, the righteous, the saints of the Holy One of Israel, they who have believed in the Holy One of Israel, they who have endured the crosses of the world, and despised the shame of it, they shall inherit the kingdom of God, which was prepared for them from the foundation of the world, and their joy shall be full forever."
 
 This is my favorite scripture because it reminds me that discipleship is not always easy, but every challenge we faithfully endure has an eternal purpose. Throughout life, there will be moments of uncertainty, sacrifice, and difficult decisions, but this verse gives me hope that as I continue to trust in Jesus Christ and remain faithful, my efforts are never wasted.
 
@@ -71,13 +71,13 @@ As I pursue my education in Information Technology and prepare for my future car
 
 ---
 
-Doctrine and Covenants 58:26–28
+### Doctrine and Covenants 58:26–28
 
-26 For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward.
+> "For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward."
 
-27 Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;
+"Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;"
 
-28 For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward.
+"For the power is in them, wherein they are agents unto themselves. And inasmuch as men do good they shall in nowise lose their reward."
 
 This scripture reminds me that God expects me to use my agency with purpose and to take initiative in doing good rather than waiting to be told what to do. It has become especially meaningful to me this week as I reflected on my temple recommend interviews and my opportunity to serve as the leader for the schedule and activities of the CJAS conference in Brazil.
 
